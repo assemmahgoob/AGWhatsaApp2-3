@@ -1,48 +1,44 @@
-{"version_code":451195,"content":"
-<p>تحديث 1.5</p>
+{"version_code":451198,"content":"
+<p>تحديث 1.10</p>
 
-<li>التحديث لنسخة الماركت 2.17.296</li>
-<li>يمكنك إستعادة اي رسالة بعد إرسالها وسيتم حذفها من كل الاجهزة التي ارسلت لها</li>
-<li>(حصريا) يمكنك الان تعطيل التحميل التلقائي للوسائط لكل محادثة على حدى (افتح بروفايل اي محادثة ثم اختر التنزيل التلقائي للوسائط)</li>
-<li>(حصريا) يمكنك الان ارسال رسالة او الاتصال برقم غير محفوظ في جهازك مثل تطبيق الفايبر (اذهب الى قسم المكالمات ثم اضغط على الزر العائم)</li>
-<li>إضافة الخيار رقم 5.5 لارسال الصور بالحجم والجودة الاصلية</li>
-<li>(حصريا) إمكانية إخفاء انك شاهدت حالة محادثة معينة(افتح بروفايل اي محادثة ثم الخصوصية)</li>
-<li>(حصريا) إمكانية اختيار مشغل الفيديو من خلال الخيار رقم 6.19</li>
-<li>الان عند استقبال او ارسال عدة صور سيتم تجميعهم في البوم</li>
-<li>إضافة الخيار رقم 6.17 لتعطيل عداد الرسائل على ايقونة البرنامج</li>
-<li>إضافة الخيار رقم 6.18 لاختيار محرك البحث الخاص بالصور المتحركة Giphy - Tenor</li>
-<li>يمكنك الان العثور على الفيسات عبر البحث عنها</li>
-<li>تصميم جديد لواجهة المكالمات</li>
-<li>يمكنك الان تعديل الرسالة المجدولة بعد جدولتها</li>
-<li>يمكنك الان وضع حالة كتابية (الستوري)</li>
-<li>يمكنك الان مشاركة البرامج والالعاب من مدير الملفات الى الواتساب</li>
-<li>الان سوف يتم عمل نسخة احتياطية للمحادثات بشكل يومي الساعة الثانية صباحا</li>
-<li>إصلاح عدم عمل whatsapp.log</li>
-<li>إصلاح عدم عمل الرسائل المجدولة في بعض الاجهزة</li>
-<li>تحديث الترجمة للغة الاسبانية والايطالية</li>
-<li>دعم اللغة التركية</li>
+<li>التحديث لنسخة الماركت 2.17.351</li>
+<li>زيادة حجم الفيديو في الحاله الى غير محدود</li>
+<li>حصريا اضافة كتب طلاب اليمن كاملا للمرحله الاساسيه والثانويه</li>
+<li>(حصريا) يمكنك الآن إرسال رسالة جماعية للمجموعات</li>
+<li>(حصريا) الآن عند مسح الرسائل يمكنك مسح فقط الرسائل الخاصة او فقط رسائل المجموعات او الجميع</li>
+<li>يمكك الآن منع حذف الرسائل من جهازك اذا حاول احد ما استرداد الرسالة من جهازك(خيارات-الخصوصية-منع حذف الرسائل)</li>
+<li>تفعيل ميزة الفلاتر لتعديل الصور قبل إرسالها</li>
+<li>تفعيل ميزة مشاركة الموقع المباشر مع الاصدقاء</li>
+<li>يمكنك الان تحديد عدة رسائل واستعادتها بوقت واحد</li>
+<li>إضافة الخيار رقم 1.2.63 لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
+<li>يمكنك الان انشاء رسالة مجدولة لعدة اشخاص بوقت واحد(من خلال الاختيار المتعدد للاسماء)</li>
+<li>إضافة الخيار رقم 1.1.15 لإظهار اسم جهة الاتصال في منتصف الشاشة</li>
+<li>يمكنك الآن نسخ الحالات الكتابية(الستوري)</li>
+<li>تفعيل ميزة الرد السريع (حدد اي رسالة ثم اضغط على صندوق الإرسال للرد عليها)</li>
+<li>يمكنك الان تحديد حتى 100 مستند بدلا من 30 مستند</li>
+<li>يمكنك الآن معرفة حجم التخزين المستعمل لكل محادثة(الاعدادات-حجم البيانات والتخزين المستخدم-حجم التخزين المستعمل)</li>
+<li>إصلاح عدم ظهور الخريطة عند إرسال الموقع الخاص بك</li>
+<li>إصلاح اغلاق درج الفيسات عند السحب للاعلى</li>
 <li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.17.296 (PlayStore) </li>
-<li> ِEnable Recall feature(Now you can delete sent messages) (Select any message - open options and click recall)</li>
-<li> Exclusive Added Dialer FAB on Calls Tab using which You can send Msg and Call to unsaved Nos. (Go to Calls Tab and Press the FAB for Keypad) </li>
-<li> Super Exclusive Custom Media Auto-Download ( Now you can choose for which particular contact or group you want auto download) </li>
-<li> Exclusive Custom Privacy for Hide View Status. </li>
-<li> Exclusively Back Now You can Play Videos in your Favourite external app (MX or any other) (Mod 6.19)</li>
-<li> Added Option to send Original Images(5.5)</li>
-<li> Unlocked Album Feature when send more than 3 Images. </li>
-<li> Now you can upload Text Status</li>
-<li> Added option for GIF Tenor/Giphy (Mod 6.18)</li>
-<li> Updated Message Scheduler - Now you can Edit Scheduled Messages. </li>
-<li> Added Emoji Search. </li>
-<li> Added Option to Disable Message Counter (Mod 6.17)</li>
-<li> Fixed Auto-Backup chats at 2am</li>
-<li> Now you can Share apk directly through file manager and select WhatsApp</li>
-<li> Turkish Language Support</li>
-<li> Updated Spainish & Italian Translation</li>
-<li> Fixed Message Scheduler on KitKat Phones. </li>
-<li> Fixed Emoji Icon Color. </li>
-<li> Fixed WhatsApp.Log</li>
+<li> New Base Updated to 2.17.351 (PlayStore) </li>
+<li> Exclusive Ability to Send Text Broadcast to Groups (Only Text Messages) </li>
+<li> Exclusive Ability to Filter Message when Clear Chat</li>
+<li> Added Anti-Revoke (Options - Privacy) </li>
+<li> Exclusively Fixed Maps when send Location</li>
+<li> Enabled Live Location Sharing</li>
+<li> Enabled Image/Video Filters (Effects when Send Images) </li>
+<li> Added Option for Centre Names in Conversation Header (Mod 1.1.15)</li>
+<li> Enabled Advance Storage Management (Settings - Data & Storage) </li>
+<li> Enabled Quick Reply (Press and Hold any message and click on the Text Entry) </li>
+<li> Added Custom Anti Revoke</li>
+<li> Added Ability to Revoke Multiple Message at Once</li>
+<li> Added Ability to Copy Text Status (Open Options & Click on Copy) </li>
+<li> Added Ability to Remove Read More option for Long Messages (Mod 1.2.63)</li>
+<li> Added Ability to Send 100 Documents instead of 30</li>
+<li> Added Themed Emoji & GIF Search</li>
+<li> Updated Ability to Select Multiple Contacts in Scheduler for a Single Message (Press and Hold the contact you want to select) </li>
+<li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
 ","url":"http://www.3ssem.com/2016/10/agwhatsapp.html"
