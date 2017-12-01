@@ -41,5 +41,5 @@
 <li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
-","url":"http://www.3ssem.com/2016/10/agwhatsapp.html"
+","url":"http://www.3ssem.com/2017/10/ag2whatsapp-100.html"
 }
