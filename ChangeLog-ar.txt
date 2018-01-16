@@ -1,45 +1,12 @@
-{"version_code":451197,"content":"
-<p>تحديث 1.10</p>
+{"version_code":451199,"content":"
+<p>رسالة دعم للمطور</p>
 
-<li>التحديث لنسخة الماركت 2.17.351</li>
-<li>زيادة حجم الفيديو في الحاله الى غير محدود</li>
-<li>حصريا اضافة كتب طلاب اليمن كاملا للمرحله الاساسيه والثانويه</li>
-<li>(حصريا) يمكنك الآن إرسال رسالة جماعية للمجموعات</li>
-<li>(حصريا) الآن عند مسح الرسائل يمكنك مسح فقط الرسائل الخاصة او فقط رسائل المجموعات او الجميع</li>
-<li>يمكك الآن منع حذف الرسائل من جهازك اذا حاول احد ما استرداد الرسالة من جهازك(خيارات-الخصوصية-منع حذف الرسائل)</li>
-<li>تفعيل ميزة الفلاتر لتعديل الصور قبل إرسالها</li>
-<li>تفعيل ميزة مشاركة الموقع المباشر مع الاصدقاء</li>
-<li>يمكنك الان تحديد عدة رسائل واستعادتها بوقت واحد</li>
-<li>إضافة الخيار رقم 1.2.63 لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
-<li>يمكنك الان انشاء رسالة مجدولة لعدة اشخاص بوقت واحد(من خلال الاختيار المتعدد للاسماء)</li>
-<li>إضافة الخيار رقم 1.1.15 لإظهار اسم جهة الاتصال في منتصف الشاشة</li>
-<li>يمكنك الآن نسخ الحالات الكتابية(الستوري)</li>
-<li>تفعيل ميزة الرد السريع (حدد اي رسالة ثم اضغط على صندوق الإرسال للرد عليها)</li>
-<li>يمكنك الان تحديد حتى 100 مستند بدلا من 30 مستند</li>
-<li>يمكنك الآن معرفة حجم التخزين المستعمل لكل محادثة(الاعدادات-حجم البيانات والتخزين المستخدم-حجم التخزين المستعمل)</li>
-<li>إصلاح عدم ظهور الخريطة عند إرسال الموقع الخاص بك</li>
-<li>إصلاح اغلاق درج الفيسات عند السحب للاعلى</li>
-<li>إصلاحات اخرى</li>
+<li>هذا ليس تحديث وانما دعم للمطور من اجل نشر النسخه</li>
+<li>اذا اعجبتك نسخة الواتس اب لا تنسى نشرها لاصدقائك من اجل دعم المطور</li>
+<li>اضغط على خيار تحديث في الاسفل سوف يتم نقلك الى رقم المطور من اجل طلب التحديث في اي وقت</li>
+<li>This is not an update but support developer application</li>
+<li>Please publication of this version of your friends in order to support the developer</li>
+<li>click on the word update to communicate with the developer</li>
 
-<li> New Base Updated to 2.17.351 (PlayStore) </li>
-<li> Exclusive Ability to Send Text Broadcast to Groups (Only Text Messages) </li>
-<li> Exclusive Ability to Filter Message when Clear Chat</li>
-<li> Added Anti-Revoke (Options - Privacy) </li>
-<li> Exclusively Fixed Maps when send Location</li>
-<li> Enabled Live Location Sharing</li>
-<li> Enabled Image/Video Filters (Effects when Send Images) </li>
-<li> Added Option for Centre Names in Conversation Header (Mod 1.1.15)</li>
-<li> Enabled Advance Storage Management (Settings - Data & Storage) </li>
-<li> Enabled Quick Reply (Press and Hold any message and click on the Text Entry) </li>
-<li> Added Custom Anti Revoke</li>
-<li> Added Ability to Revoke Multiple Message at Once</li>
-<li> Added Ability to Copy Text Status (Open Options & Click on Copy) </li>
-<li> Added Ability to Remove Read More option for Long Messages (Mod 1.2.63)</li>
-<li> Added Ability to Send 100 Documents instead of 30</li>
-<li> Added Themed Emoji & GIF Search</li>
-<li> Updated Ability to Select Multiple Contacts in Scheduler for a Single Message (Press and Hold the contact you want to select) </li>
-<li> Fixed Emoji Scroll</li>
-<li> Other Fixes</li>
-
-","url":"http://www.3ssem.com/2017/10/ag2whatsapp-100.html"
+","url":"https://api.whatsapp.com/send?phone=967739362875"
 }
