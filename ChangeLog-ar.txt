@@ -1,12 +1,11 @@
-{"version_code":451198,"content":"
-<p>رسالة دعم للمطور</p>
+{"version_code":451197,"content":"
+<p>تحديث 1.10</p>
 
-<li>هذا ليس تحديث وانما دعم للمطور من اجل نشر النسخه</li>
 <li>اذا اعجبتك نسخة الواتس اب لا تنسى نشرها لاصدقائك من اجل دعم المطور</li>
-<li>اضغط على خيار تحديث في الاسفل سوف يتم نقلك الى رقم المطور من اجل طلب التحديث في اي وقت</li>
+<li>اضغط على خيار تحديث في الاسفل سوف يتم نقلك الى صفحة التحميل</li>
 <li>This is not an update but support developer application</li>
 <li>Please publication of this version of your friends in order to support the developer</li>
-<li>click on the word update to communicate with the developer</li>
+<li>click on the word update to Download Latest Version</li>
 
-","url":"https://api.whatsapp.com/send?phone=967739362875"
+","url":"http://www.mediafire.com/file/2c27084r368lq5b/AG2_WhatsApp_1.10_by_Assem.apk"
 }
