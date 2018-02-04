@@ -1,11 +1,49 @@
-{"version_code":451197,"content":"
-<p>تحديث 1.10</p>
+{"version_code":451199,"content":"
+<p>تحديث 1.20</p>
 
-<li>اذا اعجبتك نسخة الواتس اب لا تنسى نشرها لاصدقائك من اجل دعم المطور</li>
-<li>اضغط على خيار تحديث في الاسفل سوف يتم نقلك الى صفحة التحميل</li>
-<li>This is not an update but support developer application</li>
-<li>Please publication of this version of your friends in order to support the developer</li>
-<li>click on the word update to Download Latest Version</li>
+<li>التحديث لنسخة الماركت 2.17.427</li>
+<li>إضافة فيسات الواتساب الجديدة</li>
+<li>اضافة ميزة اخفاء اسم المحادثه في المحادثات</li>
+<li>اضافة كتب طلاب اليمن كاملا</li>
+<li>(حصريا) يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+<li>إضافة الخيار رقم 5.6  لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية</li>
+<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
+<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم</li>
+<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
+<li>إضافة ملصق الساعة</li>
+<li>إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات</li>
+<li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
+<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
+<li>دعم اللغة الالمانية</li>
+<li>تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك</li>
+<li>إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور(البوم)</li>
+<li>إصلاح الخيار رقم 6.11 في بعض الإصدارات</li>
+<li>إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها</li>
+<li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
+<li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li>
+<li>إصلاحات اخرى</li>
 
-","url":"http://www.mediafire.com/file/2c27084r368lq5b/AG2_WhatsApp_1.10_by_Assem.apk"
-}
+<li> New Base Updated to 2.17.427</li>
+<li> Added New Emojis</li>
+<li> Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<li> Added Hide Conversation</li>
+<li> Added All Book Student in Yemen</li>
+<li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
+<li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
+<li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
+<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
+<li> Enabled Change Number Notification</li>
+<li> Enabled Clock Sticker</li>
+<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
+<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
+<li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
+<li> Added German Language Support</li>
+<li> Fixed Navigation Bar Color when Select any chat/message</li>
+<li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
+<li> Fixed Mod 6.11 for Android Oreo. </li>
+<li> Fixed Play Videos in some devices</li>
+<li> Fixed Crash when open Custom Privacy Chats</li>
+<li> Other Fixes</li>
+
+","url":"http://www.3ssem.com/2017/10/ag2whatsapp-100.html"
+} 
