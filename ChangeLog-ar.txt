@@ -5,7 +5,7 @@
 <li> هذه الرساله سوف تظهر فقط للاشخاص الذين يستخدمون اصدارات قديمه من النسخه.</li>
 <li> قم بالضغط على خيار "تحديث" بالاسفل لتحميل اخر اصدار وتثبيته</li>
 
-<li> To all AGWhatsApp users (Assem Mahgoob) please update the version to the new version 9.90 in order to solve all the problems you are facing.</li>
+<li> To all AG2WhatsApp users (Assem Mahgoob) please update the version to the new version 9.90 in order to solve all the problems you are facing.</li>
 <li> This message will only appear to people who use older versions of the version</li>
 <li> Click the "Update" option below to download and install the latest version.</li>
 
