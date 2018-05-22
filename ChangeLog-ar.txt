@@ -1,6 +1,12 @@
-{"version_code":451203,"content":"
-<p>تحديث 1.40</p>
+{"version_code":451205,"content":"
+<p>تحديث اختياري وليس اجباري يضم العديد من الاضافات الجديده</p>
+<p>Optional update, not mandatory. Includes many new additions</p>
 
+<li>اضافة ميزة تغير الفيسات بالطريقه الجديده وبدون اي مشاكل في اللغه</li>
+<li>اضافة خيار زيادة مدة فيديو الحاله الى مالانهايه في اضافات عاصم محجوب</li>
+<li>اضافة خيار تبديل الحسابات بـ ستة ارقام مع تصميم جديد</li>
+<li>اضافة قسم حول تاريخ الاندرويد كامل</li>
+<li>اضافة قسم الاضافات المفيده يوجد فيه اضافات كثيره</li>
 <li>التحديث لنسخة الماركت 2.18.46</li>
 <li>(حصريا) الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
 <li>تفعيل ميزة وضع وصف للمجموعات</li>
@@ -25,6 +31,11 @@
 <li>إصلاح فتح المحادثات المخفية من خلال المجموعات المشتركة</li>
 <li>إصلاحات اخرى</li>
 
+<li> (Exclusively) Added Option to Change Emoji from New to Old With Tow Steps</li>
+<li> Added Option Change Your Account With 6 Account</li>
+<li> Added Category Best Addional and WebSites</li>
+<li> Added Category About Android Hestory</li>
+<li> Added Option for Video limit for Status in AG Settings</li>
 <li> New Base Updated to 2.18.46</li>
 <li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
 <li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
@@ -53,5 +64,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.3ssem.com/2017/10/ag2whatsapp-100.html"
+","url":"http://www.3ssem.com/2018/05/ag2whatsapp-1.40.html"
 } 
