@@ -4,6 +4,12 @@
 
 <li> التحديث لنسخة الماركت 2.18.203</li>
 
+<li> نسخه امنه ومستقره وخفيفه وبدون مشاكل</li>
+
+<li> اصلاح مشكلة عدم اختفاء ايقونة النص التلقائي (التحفيل)</li>
+
+<li> اصلاح سرفر الثيمات وبدون الحاجه الي التطبيق واضافة ثيمات جديده</li>
+
 <li> (حصرياً) ‏إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
 
 <li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)</li>
@@ -35,6 +41,12 @@
 <li> إصلاحات اخرى</li>
 
 <li> New Base Updated to 2.18.203</li>
+
+<li> Fixed the problem of autotext</li>
+
+<li> Fixed Themes problems and added new themes</li>
+
+<li> Fixed all problems (bugs)</li>
 
 <li> Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
 
