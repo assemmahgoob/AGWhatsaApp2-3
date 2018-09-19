@@ -71,5 +71,4 @@
 <li> Many Other Fixes</li>
 
 ","url":"https://www.3ssem.com/2018/09/ag2whatsappv1.60.html"
-
 }
