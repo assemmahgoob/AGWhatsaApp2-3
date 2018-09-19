@@ -1,44 +1,75 @@
-{"version_code":451203,"content":"
+{"version_code":451207,"content":"
+
 <p>تحديث 1.60</p>
 
-<li>التحديث لنسخة الماركت 2.18.203</li>
-<li>اصبحت النسخة لاتتأثر بجميع الفيروسات اطلاقاً/li>
-<li>(حصرياً) ‏إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
-<li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)</li>
-<li>اضافة واصلاح ميزة النص التلقائي(التحفيل)</li>
-<li>تفعيل الخيار حفظ المحادثه على شكل ملف مضغوط و إمكانية مشاركتها(الخيارات – المزيد – نقل الدردشة)</li>
-<li>تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات</li>
-<li>تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية</li>
-<li>إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته وكذلك نقله(افتح الإعدادات في واتساب – الحساب – طلب معلومات الحساب</li>
-<li>لا حاجة لتطبيق GBThemes بعد الان تم إزالته</li>
-<li>إزالة الخيار رقم 6.8 عرض قائمة الاسماء</li>
-<li>إصلاح مشكلة عدم اظهار إشعار الرسائل المحذوفة في بعض الأجهزة</li>
-<li>إصلاح مشكلة تطبيق الثيمات في بعض الأجهزة</li>
-<li>إصلاح مشكلة البحث في الإنترنت</li>
-<li>إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها من الخيار 6.7</li>
-<li>إصلاح مشكلة مشاركة و إرسال الثيمات</li>
-<li>تحديث اللغات الايطالية والبرتغالية</li>
-<li>إصلاحات اخرى</li>
+<li> التحديث لنسخة الماركت 2.18.203</li>
 
-<li> Updated to version 2.18.203</li>
-<li> The version is not affected by all viruses at all</li>
-<li> Fixed the problem of automatic text inversion</li>
-<li> Add explanation of how to change 10 numbers in whatsapp only one </li>
-<li> (Exclusively) Add a record for deleted messages, you can now see messages that the other party has deleted at any time (open any conversation profile and deleted messages)</li>
-<li> The ability to hide pictures and videos from the studio with the ability to hide their views through the application Path (open profile and any conversation and media display)</li>
-<li> Activate the option to save the conversation as a compressed file and share it (options - more - transfer chat)</li>
-<li> Enable message recognition as read from notifications</li>
-<li> Activate the Select All Chats option in the Home screen</li>
-<li> Ability to request and report your account information in Wattab and its settings (Open Settings in Wattab - Account - Request account information</li>
-<li> No need to apply GBThemes anymore has been removed</li>
-<li> Remove option number 6.8 Display the list of names</li>
-<li> Fixed a problem not showing the notification of deleted messages in some devices</li>
-<li> Fix the problem of applying themes in some devices</li>
-<li> Fix Internet search problem</li>
-<li> Fixed the problem of making a backup copy and retrieving it from option 6.7</li>
-<li> Fix the problem of sharing and sending themes</li>
-<li> Updated Italian and Portuguese languages</li>
+<li> نسخه امنه ومستقره ولا تتأثر بالفيروسات</li>
+
+<li> اصلاح مشكلة تحميل الثميات واضافة المزيد من الثيمات الجديده</li>
+
+<li> تم اصلاح مشكلة اختفاء ايقونة النص التلقائي</li>
+
+<li> (حصرياً) ‏إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
+
+<li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)</li>
+
+<li> تفعيل الخيار حفظ المحادثه على شكل ملف مضغوط و إمكانية مشاركتها(الخيارات - المزيد - نقل الدردشة)</li>
+
+<li> تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات</li>
+
+<li> تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية</li>
+
+<li> إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته وكذلك نقله(افتح الإعدادات في واتساب - الحساب - طلب معلومات الحساب</li>
+
+<li> لا حاجة لتطبيق GBThemes بعد الان تم إزالته</li>
+
+<li> إزالة الخيار رقم 6.8 عرض قائمة الاسماء</li>
+
+<li> إصلاح مشكلة عدم اظهار إشعار الرسائل المحذوفة في بعض الأجهزة</li>
+
+<li> إصلاح مشكلة تطبيق الثيمات في بعض الأجهزة</li>
+
+<li> إصلاح مشكلة البحث في الإنترنت</li>
+
+<li> إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها من الخيار 6.7</li>
+
+<li> إصلاح مشكلة مشاركة و إرسال الثيمات</li>
+
+<li> تحديث اللغات الايطالية والبرتغالية</li>
+
+<li> إصلاحات اخرى</li>
+
+<li> New Base Updated to 2.18.203</li>
+
+<li> Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
+
+<li> Enabled Media Visibility (Go to Profile - Media Visibility) </li>
+
+<li> Enabled Mark as Read in Notification.</li>
+
+<li> Enabled Select All Chats on Main Screen</li>
+
+<li> Removed Seperate App for Themes</li>
+
+<li> Removed Mod 6.8 as Old. </li>
+
+<li> Fixed Header Vibration for Hide Chats</li>
+
+<li> Fixed Revoke Notification not showing in Few Devices</li>
+
+<li> Fixed Apply Themes in Some Devices</li>
+
+<li> Fixed Web Search</li>
+
+<li> Fixed Backup & Restore (Mod 6.7)</li>
+
+<li> Fixed Share and Send Theme</li>
+
+<li> Updated Italian and Portuguese Language</li>
+
 <li> Many Other Fixes</li>
 
 ","url":"https://www.3ssem.com/2018/09/ag2whatsappv1.60.html"
+
 }
